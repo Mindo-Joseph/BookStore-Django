@@ -83,7 +83,7 @@ DATABASES = {
         'USER': 'joe',
         'PORT': 5432
 
-        
+
     }
 }
 
