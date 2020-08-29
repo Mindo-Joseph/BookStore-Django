@@ -1,0 +1,2 @@
+# BookStore-Django
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/67adc0c8514b4eacbcd86b1b12b14f36)](https://app.codacy.com/manual/Mindo-Joseph/BookStore-Django?utm_source=github.com&utm_medium=referral&utm_content=Mindo-Joseph/BookStore-Django&utm_campaign=Badge_Grade_Settings)
